@@ -1,0 +1,24 @@
+ Mouse bindings:
+    camera: Button 1 - rotate
+            Button 2 - pan
+            Button 3 - zoom
+            ctrl-Button 1 - spin
+    actor:  Button 1 - rotate
+            Button 2 - pan
+            Button 3 - uniform scale
+            ctrl-Button 1 - spin
+            ctrl-Button 2 - dolly.
+
+ Keyboard bindings (upper or lower case):
+    j - joystick like mouse interactions
+    t - trackball like mouse interactions
+    o - object/ actor interaction
+    c - camera interaction
+    r - reset camera view
+    w - turn all actors wireframe
+    s - turn all actors surface
+    u - execute user defined function
+    p - pick actor under mouse pointer (if pickable)
+    3 - toggle in/out of 3D mode (if supported by renderer)
+    e - exit
+    q - exit
